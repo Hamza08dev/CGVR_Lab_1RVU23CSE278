@@ -128,7 +128,7 @@ Unity version used: **6000.3.0f1**.
 - Lab 3 includes translation, rotation, scaling, reflection and shearing using homogeneous matrices.
 - Lab 4 demonstrates composite transformations through matrix multiplication.
 - Lab 6 contains the corrected OpenGL depth-buffer setup using `pygame.GL_DEPTH_SIZE`.
-- Labs 7, 8 and 10 contain complete runnable code even though some of the original standalone notebooks were empty.
+- Labs 7 and 8 contain complete runnable code even though some of the original standalone notebooks were empty.
 
 ## Author
 
