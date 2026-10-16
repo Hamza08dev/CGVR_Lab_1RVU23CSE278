@@ -73,9 +73,6 @@ Computer-Graphics-and-Virtual-Reality/
 
 ![Shader Output](lab8/vertex_fragment_shaders_output_lab8.png)
 
-### Lab 10 — 3D Viewing Pipeline
-
-![3D Viewing Pipeline Output](lab10/3d_viewing_pipeline_output_1_lab10.png)
 
 ## Technologies Used
 
