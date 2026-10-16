@@ -38,7 +38,7 @@ Computer-Graphics-and-Virtual-Reality/
 ├── lab8/
 ├── lab9/
 │   └── unity_interactive_scene_lab9/
-└── lab10/
+
 ```
 
 ## Output Preview
