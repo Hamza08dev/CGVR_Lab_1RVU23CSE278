@@ -17,7 +17,7 @@ All files are organized by **lab number** and use clear names such as `filename_
 | **Lab 7** | Phong illumination model | `phong_illumination_lab7.py/.ipynb` |
 | **Lab 8** | OpenGL vertex and fragment shaders | `vertex_fragment_shaders_lab8.py/.ipynb` |
 | **Lab 9** | Interactive 3D scene using Unity | `unity_interactive_scene_lab9/` |
-| **Lab 10** | 3D viewing pipeline, projection and viewport mapping | `3d_viewing_pipeline_lab10.py/.ipynb` |
+
 
 ## Repository Structure
 
